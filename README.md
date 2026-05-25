@@ -275,10 +275,10 @@ GROUP BY account_executive;
 ---
 
 ## 📊 Excel Dashboard
-
 The Excel workbook (`Insurance_Analytics_Project.xlsm`) contains **16 sheets** including raw data, pivot analysis, and two interactive dashboards.
 
 **Insurance Dashboard** — Policy-level analysis with filters for Policy Type, Status, Gender, and Year.
+![ ](https://github.com/Nandini0606/Insurance-Analysis-Dashboard/blob/main/Excel%20Insurance%20Branch%20Analytics%20Dashboard%20Screenshot.png))
 
 | Visual | Type | Description |
 |--------|------|-------------|
@@ -291,6 +291,7 @@ The Excel workbook (`Insurance_Analytics_Project.xlsm`) contains **16 sheets** i
 | Payment Status Count | Bar chart | Paid / Overdue / Pending payment status |
 
 **Branch Dashboard** — Sales and branch performance with filters for Branch and Account Executive.
+![ ](https://github.com/Nandini0606/Insurance-Analysis-Dashboard/blob/main/Excel%20Insurance%20Branch%20Analytics%20Dashboard%20Screenshot.png))
 
 | Visual | Type | Description |
 |--------|------|-------------|
@@ -306,6 +307,8 @@ The Excel workbook (`Insurance_Analytics_Project.xlsm`) contains **16 sheets** i
 ## 📊 Power BI Dashboard
 
 The Power BI file (`New_Insurance_Analytics.pbix`) delivers a fully interactive insurance analytics report with dynamic slicers and drill-through capabilities.
+![ ](https://github.com/Nandini0606/Insurance-Analysis-Dashboard/blob/main/Power%20Bi%20Insurance%20Policy%20Dashboard%20Screenshot.jpg))
+![ ](https://github.com/Nandini0606/Insurance-Analysis-Dashboard/blob/main/Power%20Bi%20Insurance%20Branch%20Dashboard%20Screenshot.jpg))
 
 **KPI Header Metrics:**
 
@@ -337,6 +340,7 @@ The Power BI file (`New_Insurance_Analytics.pbix`) delivers a fully interactive 
 The Tableau packaged workbook (`New_Insurancy_Analytics_Dashboard.twbx`) includes embedded data — no additional data connection is required.
 
 ### Insurance Policy View
+![ ](https://github.com/Nandini0606/Insurance-Analysis-Dashboard/blob/main/Tableau%20Insurance%20Policy%20Dashboard%20Screenshot.jpg))
 
 | Visual | Insight |
 |--------|---------|
@@ -348,7 +352,7 @@ The Tableau packaged workbook (`New_Insurancy_Analytics_Dashboard.twbx`) include
 | Expiring Policies Flag | Count and list of policies ending in the current year |
 
 ### Branch Performance View
-
+![ ](https://github.com/Nandini0606/Insurance-Analysis-Dashboard/blob/main/Tableau%20Insurance%20Branch%20Dashboard%20Screenshot.jpg))
 | Visual | Insight |
 |--------|---------|
 | Target vs Achievement Table | Executive-level gap analysis — over/underperforming |
